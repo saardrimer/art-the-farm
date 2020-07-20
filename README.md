@@ -2,7 +2,7 @@
 
 This digitised artwork is made by scanning of pen on card artwork and then performing a 'bitmap tracing' and layering in Inkscape. Opening the SVG in [Inkscape](https://inkscape.org) allows turning the layers on and off.
 
-![art-the-farm-724x1200.png]
+![artwork][art-the-farm-724x1200.png]
 
 ## License
 
