@@ -9,6 +9,6 @@ This artwork is provided under the provisions of
 Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-For commercial use, contact me at saardrimer@gmail.com
+For commercial use contact me at saardrimer@gmail.com
 
 Copyright © 2020, Saar Drimer
